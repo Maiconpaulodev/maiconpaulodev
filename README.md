@@ -1,40 +1,49 @@
-# 👋 Oi, eu sou o Maicon Paulo
+<h1 align="center">Oi, eu sou o Maicon Paulo 👋</h1>
 
-Sou **desenvolvedor de software**, atualmente no **7º período de Ciência da Computação**. Gosto de codar, aprender coisas novas e criar soluções que funcionam de verdade.
-
-No momento, estou focado em aprimorar minhas habilidades com as tecnologias abaixo, e também estou aprendendo **Java** para ampliar meu conhecimento no back-end.
-
----
-
-## 🚀 Tecnologias que trabalho
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java (em aprendizado)" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Aprendizado-%237e3ff2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Status: Em Aprendizado" />
+  <img src="https://img.shields.io/badge/Disponível%20para-Conexões-%238e44ad?style=for-the-badge&logo=linkedin&logoColor=white" alt="Disponível para conexões" />
+  <img src="https://img.shields.io/badge/Online-Agora-%239b59b6?style=for-the-badge&logo=wifi&logoColor=white" alt="Online agora" />
 </p>
 
 ---
 
-## 📘 Estudando no momento
+### 💻 Sobre mim
 
-- Java (foco em fundamentos e orientação a objetos)
-- Boas práticas com Git e versionamento
-- Integração entre front-end e back-end
+Sou **desenvolvedor de software**, cursando o **7º período de Ciência da Computação**, sempre em busca de aprender mais e me aperfeiçoar. Atualmente, foco no desenvolvimento web e estudo Java para expandir meus conhecimentos no back-end.
+
+---
+
+### 🚀 Tecnologias que uso
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java (estudando)"/>
+</p>
+
+---
+
+### 📚 Em aprendizado
+
+- Fundamentos de Java
+- Boas práticas com Git
+- Integração de APIs
 - Componentização com React
+- Organização de projetos
 
 ---
 
-## 🎯 Sobre mim
+### 📫 Vamos nos conectar?
 
-Estou em busca de oportunidades que me permitam evoluir como desenvolvedor, colaborar em projetos reais e aprender com pessoas experientes. Acredito que a prática e a curiosidade são os melhores caminhos para crescer na área de tecnologia.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maicon%20Paulo-%237e3ff2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) <!-- Substitua pelo seu link -->
+[![GitHub](https://img.shields.io/badge/GitHub-maiconpaulo-%239b59b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) <!-- Substitua pelo seu link -->
 
 ---
 
-<div align="center">
-  <img src="giphy.gif" width="325px" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" alt="Gif animado">
-</div>
+> 🎯 *“Evoluindo um pouco todos os dias. Bora codar!”*
+
