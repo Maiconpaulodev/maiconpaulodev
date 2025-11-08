@@ -10,8 +10,7 @@
 
 ### 💻 Sobre mim
 
-Sou **desenvolvedor de software**, cursando o **7º período de Ciência da Computação**, sempre em busca de aprender mais e me aperfeiçoar. Atualmente, foco no desenvolvimento web e estudo Java para expandir meus conhecimentos no back-end.
-
+Sou **desenvolvedor de software**, cursando o **7º período de Ciência da Computação**, sempre em busca de aprender mais e me aperfeiçoar.
 ---
 
 ### 🚀 Tecnologias que uso
