@@ -27,7 +27,7 @@ Sou **desenvolvedor de software**, cursando o **7º período de Ciência da Comp
 ## 📫 Vamos nos conectar?
 ##### [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
 ##### [GitHub](https://github.com/seu-github)  
-(https://img.icons8.com/?size=30&id=62855&format=png) [[WhatsApp ](https://wa.me/31999993129)
+<img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/40C057/whatsapp.png" alt="whatsapp"/> [[WhatsApp ](https://wa.me/31999993129)
 
 https://img.icons8.com/?size=30&id=62855&format=png
 
