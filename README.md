@@ -11,6 +11,7 @@
 ### 💻 Sobre mim
 
 Sou **desenvolvedor de software**, cursando o **7º período de Ciência da Computação**, sempre em busca de aprender mais e me aperfeiçoar.
+
 ---
 
 ### 🚀 Tecnologias que uso
@@ -19,21 +20,16 @@ Sou **desenvolvedor de software**, cursando o **7º período de Ciência da Comp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java (estudando)"/>
 </p>
 
 ---
 
 ### 📚 Em aprendizado
 
-- Fundamentos de Java
-- Boas práticas com Git
-- Integração de APIs
-- Componentização com React
-- Organização de projetos
+- Boas práticas com Git  
+- Integração de APIs  
+- Organização de projetos  
 
 ---
 
@@ -41,8 +37,8 @@ Sou **desenvolvedor de software**, cursando o **7º período de Ciência da Comp
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maicon%20Paulo-%237e3ff2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) <!-- Substitua pelo seu link -->
 [![GitHub](https://img.shields.io/badge/GitHub-maiconpaulo-%239b59b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) <!-- Substitua pelo seu link -->
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(31)%209%209999-3129-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531999993129?text=Ol%C3%A1%20Maicon!%20Vim%20pelo%20seu%20GitHub%20👋) <!-- WhatsApp com mensagem automática -->
 
 ---
 
 > 🎯 *“Evoluindo um pouco todos os dias. Bora codar!”*
-
