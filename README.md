@@ -37,7 +37,8 @@ Sou **desenvolvedor de software**, cursando o **7º período de Ciência da Comp
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maicon%20Paulo-%237e3ff2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) <!-- Substitua pelo seu link -->
 [![GitHub](https://img.shields.io/badge/GitHub-maiconpaulo-%239b59b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) <!-- Substitua pelo seu link -->
-[<img src="assets/whatsapp.png" height="35" alt="WhatsApp"/>](https://wa.me/5531999993129?text=Ol%C3%A1%20Maicon!%20Vim%20pelo%20seu%20GitHub%20👋)
+[<img src="<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b9e5bafa-a254-4ebb-bbf5-a077dba43429" />
+" height="35" alt="WhatsApp"/>](https://wa.me/5531999993129?text=Ol%C3%A1%20Maicon!%20Vim%20pelo%20seu%20GitHub%20👋)
 
 ---
 
