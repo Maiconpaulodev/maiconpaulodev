@@ -10,7 +10,7 @@ Sou **desenvolvedor de software**, cursando o **7º período de Ciência da Comp
 ---
 
 ## 🚀 Tecnologias que uso
-##### HTML5  
+#####   HTML5  
 ##### CSS3  
 ##### JavaScript  
 ##### Git  
@@ -27,7 +27,7 @@ Sou **desenvolvedor de software**, cursando o **7º período de Ciência da Comp
 ## 📫 Vamos nos conectar?
 ##### [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
 ##### [GitHub](https://github.com/seu-github)  
-##### [WhatsApp](https://wa.me/31999993129)
+##### [[WhatsApp](https://img.icons8.com/?size=30&id=62855&format=png)](https://wa.me/31999993129)
 
 ---
 
